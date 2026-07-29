@@ -31,8 +31,7 @@ I am a passionate developer and cybersecurity enthusiast focusing on building pr
 ### 🔥 Live Stats & Philosophy
 
 <div align="center">
-  <!-- Live dynamic stats that update automatically -->
-  <img src="https://github-readme-stats.vercel.app/api?username=OpenSouceBhaiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3b82f6" alt="GitHub Stats" />
+  
   
   <br/><br/>
 

@@ -28,7 +28,7 @@ I am a passionate developer and cybersecurity enthusiast focusing on building pr
 
 <br/>
 
-### 🔥 Live Stats & Philosophy
+###  Philosophy 🔥
 
 <div align="center">
   

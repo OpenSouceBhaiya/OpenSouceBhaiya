@@ -6,7 +6,7 @@
   </a>
 
   <!-- Animated Typing Text (Styled in your Website's Orange/Amber Color) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=28&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Piyush;Cybersecurity+Enthusiast+%26+Developer;Building+Privacy-First+Open+Source+Apps;Creator+of+MailSync" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=28&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Piyush;Cybersecurity+Enthusiast+%26+Developer;Building+Privacy-First+Open+Source+Apps;Creator+of+OTP+Sync" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://opensourcebhaiya.online">
@@ -20,7 +20,7 @@
 
 <br/>
 
-### 👨‍💻 The Vision
+### 👨💻 The Vision
 
 I am a passionate developer and cybersecurity enthusiast focusing on building premium, privacy-first open-source utilities. I believe in writing code that is not only functional but visually stunning—merging deep backend architecture with ultra-modern UI design.
 
@@ -41,12 +41,12 @@ I am a passionate developer and cybersecurity enthusiast focusing on building pr
 
 <br/>
 
-### 📱 Featured Product: [MailSync](https://opensourcebhaiya.online/apps/mailsync)
+### 📱 Featured Product: [OTP Sync](https://opensourcebhaiya.online/apps/otpsync)
 
-**MailSync** is a privacy-first utility that runs completely locally on your Android device. It intelligently polls connected Google accounts in the background to magically copy OTPs to your clipboard, allowing you to paste them instantly without ever opening your inbox.
+**OTP Sync** is a privacy-first utility that runs completely locally on your Android device. It intelligently intercepts incoming notifications (like SMS, WhatsApp, and Emails) in the background to magically copy OTPs to your PC clipboard, allowing you to paste them instantly without ever reaching for your phone.
 
-- 🔒 **Zero-Knowledge Architecture:** Never collects, reads, stores, or shares your personal data.
-- 🚀 **Silent Background Sync:** Polling engine that is completely battery-friendly.
+- 🔒 **Zero-Knowledge Architecture:** Never connects to your accounts, reads your inbox, or shares your personal data.
+- 🚀 **Silent Background Sync:** Utilizes Android's native Notification Listener for a completely battery-friendly experience.
 - 📱 **Biometric Security:** Your entire history is locked and protected by your phone's native security.
 
 ---
